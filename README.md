@@ -9,13 +9,13 @@ The *data* folder contains both the data file used in the examples (Data_Cortex_
 
 ## Scripts
 
-1. MouseClusteringMethods.R
+1. **MouseClusteringMethods.R** :
     This script comprises three steps
     * Data restructuring: the data is cleaned and re-annotated for the clustering process
     * k-means clustering: setting a value for k, it produces a visual representation of the clustering using selected attributes/columns
     * hiearchical clustering: selecting a method for the process, it creates an image of the produced tree
 
-2. MouseClusteringHeatmap.R
+2. **MouseClusteringHeatmap.R** :
     This script aims to provide a real-world approach to how clustering is used in research. It produces a heatmap of the protein expression, through the following steps:
     * Data restructuring: the data is cleaned and re-annotated for the clustering process
     * Heatmap initializaion: the expression ranges should be identified for better representation
@@ -29,7 +29,9 @@ The students are expected to investigate and improve the clustering process by c
 The specific fields that are should be edited are highlighted with the following comment-type:
 
 > +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 >  *Specific instructions here*
+
 > ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 
