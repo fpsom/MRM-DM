@@ -1,7 +1,7 @@
 # MRM-DM
 This is a companion repository for the Data Mining course [1] of the MSc in Medical Research Methodology provided by the Medical School of the Aristotle University of Thessaloniki.
 
-[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/fpsom/MRM-DM)
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/fpsom/MRM-DM) *(bear in mind the [!mybinder](http://mybinder.org/) current does not support R Kernels)*
 
 The repository is organized as follows:
 
